@@ -1,0 +1,14 @@
+{
+  "name": "Vertual",
+  "version": "1.1.0",
+  "description": "discordbot",
+  "main": "script/index.js",
+  "scripts": {
+     "start":"node script/index.js"
+  },
+  "dependencies": {
+    "discord.js": ""
+  },
+  "author": "CarLito59",
+  "license": "ISC"
+}
